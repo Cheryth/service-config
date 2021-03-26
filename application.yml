@@ -9,4 +9,4 @@ spring:
 spring:
  profiles: test
  application:
-   name: service-config-test
+  name: service-config-test
